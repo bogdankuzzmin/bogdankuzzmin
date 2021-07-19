@@ -28,7 +28,7 @@ I am always looking for new opportunities and learn something new.
 
 ### 📬 Feel free to contact with me on:
 
-<a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/gmail.svg"></a>&nbsp;&nbsp;
+<a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/bogdankuzzmin/"><img height="30" src="https://www.codewars.com/users/bogdankuzzmin/badges/micro"></a>
