@@ -23,7 +23,7 @@ I am always looking for new opportunities and learn something new.
 
 | Project name | Description | Technologies |
 | --- | --- | --- |
-|[Keksobooking](https://github.com/bogdankuzzmin/582427-keksobooking-20) | Rental service in Tokyio. You can find a convenient place to stay using filtering, add your rental ad. | JavaScript (ES5) |
+|[Keksobooking](https://github.com/bogdankuzzmin/582427-keksobooking-20) | Rental service in Tokyo. You can find a convenient place to stay using filtering, add your rental ad. | JavaScript (ES5) |
 
 
 ### 📬 Feel free to contact with me on:
