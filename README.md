@@ -1,6 +1,7 @@
 <p align="center">
-      <img src="https://github.com/tinakuzmenko/tinakuzmenko/master/background.jpg" width="100%" alt="What you do today can improve all your tommorows" />
+  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/background.jpg?raw=true" width="auto" height="400px" alt="What you do today can improve all your tommorows" />
 </p>
+
 
 Hello there. I am glad to see you on my GitHub page! 
 I am a Frontend Developer. I am passionate about coding and I try to do my best.
