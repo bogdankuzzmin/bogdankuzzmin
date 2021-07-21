@@ -29,9 +29,10 @@ I am always looking for new opportunities and learn something new.
 | Project name | Description | Technologies |
 | --- | --- | --- |
 |[Keksobooking](https://github.com/bogdankuzzmin/582427-keksobooking-20) | Rental service in Tokyo. You can find a convenient place to stay using filtering, add your rental ad. | JavaScript (ES5) |
+|[Big-trip](https://github.com/bogdankuzzmin/582427-big-trip-12) | SPA app where you can plan your future trip. Add a new event, choose dates, cities, sorting, filtering, statistics and more. | JavaScript (ES6), MVP pattern, Webpack, Flatpickr, Moment, He, Chart.js |
 
 
-### 📬 Feel free to contact with me on:
+### 📬 Feel free to connect with me on:
 
 <a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/linkedin.svg"></a>&nbsp;&nbsp;
