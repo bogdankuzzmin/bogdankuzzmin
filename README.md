@@ -9,20 +9,23 @@ I am always looking for new opportunities and learn something new.
 
 ### ⚙️ My Skills:
 
+- TypeScript
+- JavaScript (ES5, ES6+)
+- React, Hooks, Classes, Router
+- Redux, Redux Toolkit, Mobx
+- CCS Modules, Styled Components 
+- Material UI, Storybook
 - HTML5, CSS/LESS/SCSS
 - Bem Methodology
 - Responsive Web Design
-- Gulp, Webpack
-- JavaScript (ES5, ES6+)
-- React, Redux, Hooks
-- Firebase
+- Gulp, Webpack, Babel
+- Firebase, Docker, Git
 - Avocode, Figma
 - Linux, Windows
 
 ### 👨‍💻 Currently learning:
 
-- TypeScript
-- Testing (Jest, Enzyme)
+- Testing (Jest, React test library)
 
 ### 📋 Some of my projects:
 
