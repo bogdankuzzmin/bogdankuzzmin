@@ -3,25 +3,24 @@
 </p>
 
 
-Hello there. I am glad to see you on my GitHub page! 
-I am a Frontend Developer. I am passionate about coding and I try to do my best.
-I am always looking for new opportunities and learn something new.
+<p>Frontend developer with 2 years of experience. I am passionate about creating complex web services and seeing the results of my work. My love for web development started when I could build a simple website from a PSD design using HTML, CSS, CSS animations, and JavaScript.</p>
+
+<p>In my career, I have got a huge experience of working with bank systems, as well as strong problem-solving and critical-thinking skills. I am also skilled in building landing pages using Gatsby, SPA applications, working with React, Redux Mobx, TypeScript, Webpack, Babel, HTML, and CSS.</p>
+
+<p>In addition to my technical skills, I have experience helping students learn React and check their home tasks.</p>
 
 ### ⚙️ My Skills:
 
-- TypeScript
 - JavaScript (ES5, ES6+)
-- React, Hooks, Classes, Router
-- Redux, Redux Toolkit, Mobx
+- TypeScript
+- React, Redux, Mobx
 - CCS Modules, Styled Components 
 - Material UI, Storybook
 - HTML5, CSS/LESS/SCSS
-- Bem Methodology
+- BEM Methodology
 - Responsive Web Design
 - Gulp, Webpack, Babel
 - Firebase, Docker, Git
-- Avocode, Figma
-- Linux, Windows
 
 ### 👨‍💻 Currently learning:
 
@@ -42,5 +41,6 @@ I am always looking for new opportunities and learn something new.
 <a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/bogdankuzzmin/"><img height="30" src="https://www.codewars.com/users/bogdankuzzmin/badges/micro"></a>
 
