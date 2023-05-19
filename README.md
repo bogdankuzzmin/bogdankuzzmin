@@ -3,11 +3,11 @@
 </p>
 
 
-<p>Frontend developer with 2 years of experience. I am passionate about creating complex web services and seeing the results of my work. My love for web development started when I could build a simple website from a PSD design using HTML, CSS, CSS animations, and JavaScript.</p>
+<p>Frontend developer with 2 years of experience. I am passionate about creating complex web services and seeing the results of my work. My love for web development started when I could build a simple website from a PSD design using HTML, CSS, and JavaScript.</p>
 
-<p>In my career, I have got a huge experience of working with bank systems, as well as strong problem-solving and critical-thinking skills. I am also skilled in building landing pages using Gatsby, SPA applications, working with React, Redux Mobx, TypeScript, Webpack, Babel, HTML, and CSS.</p>
+<p>In my career, I have got a huge experience of working with bank systems, as well as strong problem-solving and critical-thinking skills. I am also skilled in building landing pages using Gatsby, SPA applications, working with React, Redux, Mobx, TypeScript, Webpack, Babel, HTML, and CSS.</p>
 
-<p>In addition to my technical skills, I have experience helping students learn React and check their home tasks.</p>
+Looking for new opportunities. 
 
 ### ⚙️ My Skills:
 
@@ -25,6 +25,7 @@
 ### 👨‍💻 Currently learning:
 
 - Testing (Jest, React test library)
+- NextJS
 
 ### 📋 Some of my projects:
 
