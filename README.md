@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/background.jpg?raw=true" width="auto" height="400px" alt="What you do today can improve all your tommorows" />
+  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/background.jpg?raw=true" width="auto" height="300px" alt="What you do today can improve all your tommorows" />
 </p>
 
 
