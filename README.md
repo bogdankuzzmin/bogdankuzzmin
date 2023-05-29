@@ -3,9 +3,9 @@
 </p>
 
 
-<p>Frontend developer with 2 years of experience. I am passionate about creating complex web services and seeing the results of my work. My love for web development started when I could build a simple website from a PSD design using HTML, CSS, and JavaScript.</p>
+<p>Frontend developer with approximately three years of experience, I am passionate about creating complex web services and witnessing the outcomes of my work. My love for web development began when I successfully built a simple website from a PSD design using HTML, CSS, and JavaScript.</p>
 
-<p>In my career, I have got a huge experience of working with bank systems, as well as strong problem-solving and critical-thinking skills. I am also skilled in building landing pages using Gatsby, SPA applications, working with React, Redux, Mobx, TypeScript, Webpack, Babel, HTML, and CSS.</p>
+<p>Throughout my career, I have gained extensive experience working with banking systems, honing my problem-solving and critical-thinking abilities. Additionally, I possess expertise in constructing landing pages using Gatsby, developing SPA applications, creating components for Storybook, and working with JavaScript, TypeScript, React, Redux, Mobx, Webpack, Babel, Gulp, HTML, and CSS preprocessors.</p>
 
 Looking for new opportunities. 
 
@@ -13,7 +13,7 @@ Looking for new opportunities.
 
 - JavaScript (ES5, ES6+)
 - TypeScript
-- React, Redux, Mobx
+- React, Redux (Toolkit, Saga), Mobx
 - CCS Modules, Styled Components 
 - Material UI, Storybook
 - HTML5, CSS/LESS/SCSS
@@ -42,6 +42,7 @@ Looking for new opportunities.
 <a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/telegram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/bogdankuzzmin/"><img height="30" src="https://www.codewars.com/users/bogdankuzzmin/badges/micro"></a>
 
