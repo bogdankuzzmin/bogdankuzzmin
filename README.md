@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/background.jpg?raw=true" width="auto" height="300px" alt="What you do today can improve all your tommorows" />
+  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/tetris.png?raw=true" width="auto" height="300px" alt="GitHub background" />
 </p>
 
 
@@ -7,24 +7,23 @@
 
 <p>Throughout my career, I have gained extensive experience working with banking systems, honing my problem-solving and critical-thinking abilities. Additionally, I possess expertise in constructing landing pages using Gatsby, developing SPA applications, creating components for Storybook, and working with JavaScript, TypeScript, React, Redux, Mobx, Webpack, Babel, Gulp, HTML, and CSS preprocessors.</p>
 
-Looking for new opportunities. 
-
 ### ⚙️ My Skills:
 
 - JavaScript (ES5, ES6+)
 - TypeScript
 - React, Redux (Toolkit, Saga), Mobx
+- Jest/React test library
 - CCS Modules, Styled Components 
 - Material UI, Storybook
 - HTML5, CSS/LESS/SCSS
 - BEM Methodology
 - Responsive Web Design
 - Gulp, Webpack, Babel
-- Firebase, Docker, Git
+- Rest API, GraphQL
+- Firebase, Docker, Git, Vercel
 
 ### 👨‍💻 Currently learning:
 
-- Testing (Jest, React test library)
 - NextJS
 
 ### 📋 Some of my projects:
