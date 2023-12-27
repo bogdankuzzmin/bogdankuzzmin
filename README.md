@@ -24,7 +24,8 @@
 
 ### 👨‍💻 Currently learning:
 
-- NextJS
+- Three JS
+- Animations
 
 ### 📋 Some of my projects:
 
