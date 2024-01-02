@@ -9,8 +9,7 @@
 
 ### ⚙️ My Skills:
 
-- JavaScript (ES5, ES6+)
-- TypeScript
+- TypeScript, JavaScript (ES5, ES6+)
 - React, Redux (Toolkit, Saga), Mobx, Zustand
 - Jest/React test library
 - CCS Modules, Styled Components 
