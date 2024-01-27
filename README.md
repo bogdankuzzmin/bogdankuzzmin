@@ -28,6 +28,7 @@
 - Three JS
 - Cypress
 
+
 ### 📬 Feel free to connect with me on:
 
 <a href="mailto:bogdankuzzmin@gmail.com"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/email.svg"></a>&nbsp;&nbsp;
