@@ -9,19 +9,6 @@
 
 ### ⚙️ My Skills:
 
-JavaScript (ES5, ES6+), TypeScript
-React, Redux (Toolkit, Saga), Mobx, Zustand
-Jest/React test library
-CCS Modules, Styled Components
-Material UI, Storybook
-HTML, CSS, Less, Scss
-BEM Methodology
-Responsive Web Design
-Gulp, Webpack, Babel
-Rest API, GraphQL
-Firebase, Docker, WebSocket
-Git, Vercel
-
 - JavaScript (ES5, ES6+), TypeScript
 - React, Redux (Toolkit, Saga), Mobx, Zustand
 - Jest/React test library
