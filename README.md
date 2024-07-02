@@ -3,7 +3,7 @@
 </p>
 
 
-<p>Frontend developer with three years of experience, I am passionate about creating complex web services and witnessing the outcomes of my work. My love for web development began when I successfully built a simple website from a PSD design using HTML, CSS, and JavaScript.</p>
+<p>Frontend developer with four years of experience, I am passionate about creating complex web services and witnessing the outcomes of my work. My love for web development began when I successfully built a simple website from a PSD design using HTML, CSS, and JavaScript.</p>
 
 <p>Throughout my career, I have gained extensive experience working with banking systems, honing my problem-solving and critical-thinking abilities. Additionally, I possess expertise in constructing landing pages using Gatsby, developing SPA applications, creating components for Storybook, and working with JavaScript, TypeScript, React, Redux, Mobx, Webpack, Babel, Gulp, HTML, and CSS preprocessors.</p>
 
@@ -21,12 +21,7 @@
 - Rest API, GraphQL
 - Firebase, Docker, WebSockets
 - Git, Vercel
-
-### 👨‍💻 Currently learning:
-
-- Animations (CSS, JavaScript)
-- Three JS
-- Cypress
+- CSS Animations
 
 
 ### 📬 Feel free to connect with me on:
