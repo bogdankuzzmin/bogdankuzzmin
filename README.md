@@ -21,7 +21,7 @@
 - Rest API, GraphQL
 - Firebase, Docker, WebSockets
 - Git, Vercel
-- CSS Animations
+- CSS Animations, Canvas
 
 
 ### 📬 Feel free to connect with me on:
