@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bogdankuzzmin/bogdankuzzmin/blob/master/tetris.png?raw=true" width="auto" height="auto" alt="GitHub background" />
+  <img src="./hlheader.jpg" width="auto" height="auto" alt="GitHub background" />
 </p>
 
 
