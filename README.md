@@ -17,7 +17,7 @@
 - HTML5, CSS/LESS/SCSS
 - BEM Methodology
 - Responsive Web Design
-- Gulp, Webpack, Babel
+- Gulp, Webpack, Babel, Vite
 - Rest API, GraphQL
 - Firebase, Docker, WebSockets
 - Git, Vercel
