@@ -21,6 +21,7 @@
 - Firebase, Docker, WebSockets
 - Git, Vercel
 - CSS Animations, Canvas
+- Linux, Shell
 
 
 ### 📬 Feel free to connect with me on:
