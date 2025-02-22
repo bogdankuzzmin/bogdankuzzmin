@@ -30,6 +30,5 @@
 <a href="https://www.linkedin.com/in/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/telegram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/bogdankuzzmin/"><img height="30" src="https://raw.githubusercontent.com/bogdankuzzmin/bogdankuzzmin/master/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/bogdankuzzmin/"><img height="30" src="https://www.codewars.com/users/bogdankuzzmin/badges/micro"></a>
 
