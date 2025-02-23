@@ -1,9 +1,13 @@
 <p>
-  I am a Frontend Developer with over four years of experience, driven by a passion for building complex, user-focused web applications. My journey into web development began with the successful creation of a website from a PSD design using HTML, CSS, and JavaScript, sparking a deep interest in crafting impactful digital solutions.
+  I am a skilled Frontend Developer with 4 years of experience creating dynamic, responsive, and user-focused web services. I specialize in turning ideas into      visually appealing and functional websites, working with a wide range of tools and technologies.
 </p>
 
 <p>
-  I specialize in creating adaptive, efficient, and visually appealing web interfaces. I thrive on solving challenging problems, optimizing performance, and delivering seamless user experiences. With a strong foundation in modern web technologies, I am constantly learning and evolving to stay at the forefront of frontend development.
+  I thrive on solving challenging problems and delivering solutions that drive results. Whether it's crafting seamless user interfaces from PSD/Figma designs or   optimizing complex systems, my focus is on quality, performance, and innovation.
+</p>
+
+<p>
+  Throughout my career, I've continuously improved my skills and become an excellent team player. My technical competencies include:
 </p>
 
 ### ⚙️ My Skills:
