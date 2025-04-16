@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Throughout my career, I've continuously improved my skills and become an excellent team player. My technical competencies include:
+  Throughout my career, I've continuously improved my skills and become an excellent team player.
 </p>
 
 ### ⚙️ My Skills:
