@@ -1,5 +1,5 @@
 <p>
-  I am a skilled Frontend Developer with 4 years of experience creating dynamic, responsive, and user-focused web services. I specialize in turning ideas into      visually appealing and functional websites, working with a wide range of tools and technologies.
+  I am a skilled Frontend Developer with 4+ years of experience creating dynamic, responsive, and user-focused web services. I specialize in turning ideas into      visually appealing and functional websites, working with a wide range of tools and technologies.
 </p>
 
 <p>
