@@ -3,7 +3,11 @@ I’m a Frontend Developer with 5+ years of experience building complex, high-pe
 </p>
 
 <p>
-I specialize in creating scalable front-end architectures, rich data-driven interfaces, and responsive user experiences. Most of my work revolves around React ecosystems, where I design and develop everything from reusable UI systems to large feature modules with real-time updates and complex business logic.
+I specialize in designing scalable frontend architectures, rich data-driven interfaces, and responsive user experiences. Most of my work is within the React ecosystem, where I build everything from reusable UI systems to large feature modules with real-time updates and complex business logic.
+</p>
+
+<p>
+In addition to frontend development, I also work at the backend-for-frontend layer using Next.js, PostgreSQL, and Prisma. This allows me to design features end-to-end — from database models and API routes to performant, user-friendly interfaces.
 </p>
 
 <p>
@@ -13,21 +17,26 @@ I have strong experience working on high-load and data-heavy systems, including 
 ### ⚙️ Core stack:
 
 - JavaScript (ES5, ES6+), TypeScript
-- React, Redux Toolkit, Redux Saga, MobX, Zustand
+- React, Next.js (App Router, SSR, Server Components)
+- Redux Toolkit, Redux Saga, MobX, Zustand
 - MUI, Styled Components, CSS Modules, Storybook, BEM
-- HTML, CSS, CSS preprocessors (Less, SCSS)
-- CSS Animations
+- HTML, CSS, SCSS, Less, CSS Animations
 - Jest, React Testing Library
 - REST, GraphQL, WebSockets, Firebase
-- Webpack, Vite, Babel, Gulp, Docker
-- Performance optimization, responsive design, feature architecture
-- Git, Vercel
+- Next.js Route Handlers / Server Actions
+- PostgreSQL (Supabase), Prisma ORM
+- Webpack, Vite, Babel, Gulp, Docker, Git, Vercel
+- Feature-based architecture (FSD)
+- Performance optimization, code splitting, lazy loading
+- Responsive design
+  
 
 Currently learning & exploring
 
 - React Native
 - Advanced animations
 - Three.js
+
 
 
 ### 📬 Feel free to connect with me on:
